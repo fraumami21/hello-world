@@ -1,6 +1,2 @@
 # hello-world
 Other repositories
-
-Hello Guys!!! 
-
-Allons-y!   
